@@ -26,4 +26,4 @@ Data Analysis Use Case:
 -  Utilizing Looker dashboards for insights.
 
 
-Checkout detailed description of the project on this medium Blog
+Checkout detailed description of the project on this [medium Blog](https://medium.com/@sahamsiddiqui/navigating-data-engineering-from-raw-data-to-business-insights-part-1-d4e4969004d8)
